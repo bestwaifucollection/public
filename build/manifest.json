@@ -1,0 +1,14 @@
+{
+  "build/main.css": "/build/main.css",
+  "build/main.js": "/build/main.js",
+  "build/images/BWC_bg.jpg": "/build/images/BWC_bg.jpg",
+  "build/images/bwc-bg.jpg": "/build/images/bwc-bg.jpg",
+  "build/images/pinklogo.png": "/build/images/pinklogo.png",
+  "build/images/logo.png": "/build/images/logo.png",
+  "build/images/line.png": "/build/images/line.png",
+  "build/images/line_upsidedown.png": "/build/images/line_upsidedown.png",
+  "build/images/bwc_logo_white_full.png": "/build/images/bwc_logo_white_full.png",
+  "build/images/fav.png": "/build/images/fav.png",
+  "build/images/preview.png": "/build/images/preview.png",
+  "build/images/close_48.png": "/build/images/close_48.png"
+}
